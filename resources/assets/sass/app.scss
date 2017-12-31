@@ -11,3 +11,7 @@
 @import "node_modules/bulma/bulma";
 // Bulma Vue Modules
 @import "node_modules/buefy/src/scss/buefy.scss";
+//Custom scss
+@import "overrides";
+@import "helpers";
+@import "style";

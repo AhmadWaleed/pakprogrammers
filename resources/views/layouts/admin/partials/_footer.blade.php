@@ -1,0 +1,1 @@
+<script async type="text/javascript" src="{{ asset('js/bulma.js') }}"></script>
