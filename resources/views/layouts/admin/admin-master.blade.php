@@ -16,8 +16,10 @@
         <div class="column is-9">
             @include('layouts.admin.partials._content')
         </div>
+        @yield('page-content')
     </div>
 </div>
     @include('layouts.admin.partials._footer')
 </body>
 </html>
+e

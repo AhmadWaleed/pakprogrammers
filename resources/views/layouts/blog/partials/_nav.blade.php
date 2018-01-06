@@ -17,6 +17,9 @@
             <a class="navbar-item" href="#">
                 Archives
             </a>
+            <a class="navbar-item" href="#">
+                popular
+            </a>
         </div>
     </div>
 </nav>

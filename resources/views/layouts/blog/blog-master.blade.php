@@ -10,6 +10,8 @@
         @include('layouts.blog.partials._nav')
     <!-- END NAV -->
 
+    @yield('page-content')
+
     <!-- START ARTICLE FEED -->
     <section class="articles">
         @include('layouts.blog.partials._articles')
