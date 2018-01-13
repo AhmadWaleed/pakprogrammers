@@ -9,9 +9,7 @@
         @include('layouts.landing.partials._nav')
     </div>
 
-    <div class="hero-body">
-        @include('layouts.landing.partials._content')
-    </div>
+    @yield('content')
 
 </section>
     @include('layouts.landing.partials._footer')
